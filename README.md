@@ -1,4 +1,4 @@
-## Hello, I'm [Your Name]! 👋
+## Hello, I'm HJ! 👋
 
 Welcome to my GitHub profile! I’m a passionate developer dedicated to creating efficient and optimized solutions. Here’s a bit about me and what I do:
 
