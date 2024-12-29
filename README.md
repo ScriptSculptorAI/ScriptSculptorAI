@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate developer dedicated to creating
 - **[Optimized RandomX Assembly Code](https://github.com/your-username/randomx-optimized):** Enhancing RandomX algorithm performance for modern CPUs.
 
 ### 📫 Get in Touch
-- **Twitter:** [@yourusername](https://twitter.com/TrendSeekerX)
+- **Twitter:** [@TrendSeekerX](https://twitter.com/TrendSeekerX)
 
 ### 🎉 Fun Facts
 - 🌱 I’m currently learning about advanced cryptography and its applications in secure computing.
